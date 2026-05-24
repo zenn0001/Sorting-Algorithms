@@ -35,9 +35,9 @@ export function recordMergeSort(input: number[]): FrameWithLine[] {
     let j = mid + 1;
 
     pushFrame(
-      { [left]: "pivot", [right]: "pivot" },
+      { [left]: "merging", [right]: "merging" },
       `Merging range ${left}-${right}`,
-      32
+      37
     );
 
     while (i <= mid && j <= right) {
