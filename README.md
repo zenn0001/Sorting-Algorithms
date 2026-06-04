@@ -1,8 +1,8 @@
-# Sorting Algorithms Visualizer 🎱
+# Sorting Algorithms Visualizer 
 
 A modern, interactive web application for visualizing and comparing sorting algorithms. This project provides step-by-step visual demonstrations of how different sorting algorithms work, complete with performance metrics, code examples, and side-by-side comparisons.
 
-## 🎯 Features
+## Features
 
 - **Interactive Visualizations**: Watch sorting algorithms work in real-time with animated bar charts
 - **Three Core Algorithms**: Bubble Sort, Merge Sort, and Quick Sort
@@ -23,7 +23,7 @@ A modern, interactive web application for visualizing and comparing sorting algo
 - **Responsive Design**: Works seamlessly on desktop and tablet devices
 - **Smooth Animations**: Framer Motion-powered transitions and visual effects
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org/) 16.2.6
 - **Language**: TypeScript
@@ -32,7 +32,7 @@ A modern, interactive web application for visualizing and comparing sorting algo
 - **UI Components**: React 18.2.0
 - **Rendering**: Canvas API for efficient visualizations
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── app/                           # Next.js app directory
@@ -72,7 +72,7 @@ A modern, interactive web application for visualizing and comparing sorting algo
 └── postcss.config.js              # PostCSS configuration
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -102,7 +102,7 @@ npm run dev
 http://localhost:3000
 ```
 
-## 📖 Usage
+##  Usage
 
 ### Home Page
 The landing page displays three algorithm cards:
@@ -124,7 +124,7 @@ Each algorithm page includes:
 ### Compare Page
 Navigate to the Compare section to see all three algorithms working on the same random array simultaneously. This helps visualize the performance differences between algorithms.
 
-## 🎨 Visual Indicators
+##  Visual Indicators
 
 The visualizer uses color-coded bars to indicate different states:
 - **Gray**: Default/inactive bars
@@ -134,7 +134,7 @@ The visualizer uses color-coded bars to indicate different states:
 - **Purple**: Elements being merged (Merge Sort)
 - **Green**: Elements in final sorted position
 
-## ⚙️ Scripts
+##  Scripts
 
 ```bash
 npm run dev      # Start development server with hot reload
@@ -142,7 +142,7 @@ npm run build    # Build for production
 npm start        # Start production server
 ```
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project helps understand:
 - How sorting algorithms work step-by-step
@@ -154,7 +154,7 @@ This project helps understand:
 - React hooks and state management
 - TypeScript for type-safe development
 
-## 📊 Supported Algorithms
+##  Supported Algorithms
 
 ### Bubble Sort
 - **Time Complexity**: O(n²) average and worst case, O(n) best case
@@ -171,11 +171,11 @@ This project helps understand:
 - **Space Complexity**: O(log n) due to recursion
 - **Description**: Divide-and-conquer algorithm that partitions the array around a pivot element and recursively sorts the partitions
 
-## 🔊 Audio Features
+##  Audio Features
 
 The application includes optional sound effects to provide audio feedback during the sorting process. Users can toggle sound on/off via the UI.
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 Potential features for future versions:
 - Additional sorting algorithms (Heap Sort, Shell Sort, Counting Sort, etc.)
@@ -187,11 +187,11 @@ Potential features for future versions:
 - Tutorial mode with guided lessons
 - Dark mode theme
 
-## 📝 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to:
 - Report bugs
@@ -199,10 +199,10 @@ Contributions are welcome! Feel free to:
 - Submit pull requests
 - Improve documentation
 
-## 📧 Contact
+## Contact
 
 For questions or feedback, please visit the [GitHub repository](https://github.com/JerichoDelosReyes/Sorting-Algorithms).
 
 ---
 
-**Happy Sorting! 🚀**
+**Happy Sorting!**
