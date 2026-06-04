@@ -1,4 +1,4 @@
-# Sorting Algorithms Visualizer
+# Sorting Algorithms Visualizer 🎱
 
 A modern, interactive web application for visualizing and comparing sorting algorithms. This project provides step-by-step visual demonstrations of how different sorting algorithms work, complete with performance metrics, code examples, and side-by-side comparisons.
 
